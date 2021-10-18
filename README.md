@@ -1,6 +1,6 @@
 # Alphametics
 
-Code for a blog article about alphametics/cryptarythms
+Code for a blog article about alphametics/cryptarythms: <https://swistak.codes/kryptarytmy/>
 
 ## Running
 
